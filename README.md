@@ -44,7 +44,7 @@ You can use 'mvn clean install' to compile the application, which will also run 
 
 In the 'target' folder there is a jar file called 'CodecCodingTest-1.0-SNAPSHOT', you can run this executable with this code:
 
-  - java -jar CodecCodingTest-1.0-SNAPSHOT.jar **grid size** **list of commands**
+  - java -jar CodecCodingTest-1.0-SNAPSHOT.jar <**grid_size**> <**list_of_commands**>
 
 
 
