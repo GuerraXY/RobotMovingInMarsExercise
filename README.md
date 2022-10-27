@@ -42,7 +42,7 @@ You can use 'mvn clean install' to compile the application, which will also run 
 
 # To run
 
-After compiling a file called 'target' will be created, where is a jar file called 'CodecCodingTest-1.0-SNAPSHOT', you can run this executable with this code:
+In the 'target' folder there is a jar file called 'CodecCodingTest-1.0-SNAPSHOT', you can run this executable with this code:
 
   - java -jar CodecCodingTest-1.0-SNAPSHOT.jar <grid size> <list of commands>
 
