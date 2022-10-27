@@ -17,7 +17,7 @@ Simulating a robot moving in Mars
   
 ## Functionality
 
-The robot's initial position will always be t X: 1, Y: 1 facing NORTH. 
+The robot's initial position will always be X: 1, Y: 1 facing NORTH. 
 
 If the robot reaches the limits of the plateau the command must be ignored.
 
